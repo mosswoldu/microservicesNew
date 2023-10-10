@@ -18,5 +18,5 @@ import java.util.List;
 public class OrderRequest {
 
 
-    private List<OrderLineItemsDto> orderLineItemsDtOList;
+    private List<OrderLineItemsDto> orderLineItemsDtoList;
 }
