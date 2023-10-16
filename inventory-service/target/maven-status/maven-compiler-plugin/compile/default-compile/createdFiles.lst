@@ -1,5 +1,5 @@
-Inventory\Service\repository\InventoryRepository.class
 Inventory\Service\InventoryServiceApplication.class
+Inventory\Service\repository\InventoryRepository.class
 Inventory\Service\controller\InventoryController.class
 Inventory\Service\model\Inventory.class
 Inventory\Service\service\InventoryService.class

@@ -20,6 +20,7 @@
       <module name="Api-Gatway" options="-parameters" />
       <module name="discoveryService" options="-parameters" />
       <module name="inventory-service" options="-parameters" />
+      <module name="microservicesNew" options="-parameters" />
       <module name="order-service" options="-parameters" />
       <module name="product-service" options="-parameters" />
     </option>
